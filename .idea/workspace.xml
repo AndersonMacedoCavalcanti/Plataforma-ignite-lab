@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc4f7830-8f8a-42c7-b156-f932dca72a50" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ignite-lab.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/postcss.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/App.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/Router.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/assets/blur-background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/assets/code-mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/components/Header.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/components/Lesson.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/components/LessonNotAvailable.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/components/Sidebar.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/components/Video.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/lib/apollo.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/main.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/pages/Event.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/pages/Subscribe.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/styles/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/src/vite-env.d.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/tailwind.config.cjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/tsconfig.node.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ignite-lab/vite.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+      </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Dz0jQdF5FGrjcM3mljDqxdTBa8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "code.cleanup.on.save": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "rearrange.code.on.save": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Users\\ander\\IdeaProjects\\Ignite-lab\\ignite-lab\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc4f7830-8f8a-42c7-b156-f932dca72a50" name="Changes" comment="" />
+      <created>1661686741100</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661686741100</updated>
+      <workItem from="1661686746761" duration="7744000" />
+      <workItem from="1661705919280" duration="1941000" />
+      <workItem from="1661713733247" duration="10577000" />
+      <workItem from="1661726778712" duration="3163000" />
+      <workItem from="1661730057651" duration="6993000" />
+      <workItem from="1662134457578" duration="36000" />
+      <workItem from="1662134992319" duration="6000" />
+      <workItem from="1663788188991" duration="515000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
